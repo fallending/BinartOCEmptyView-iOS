@@ -39,7 +39,6 @@
 @property (nonatomic, strong) UIImageView *promptImageView;
 @property (nonatomic, strong) UILabel     *titleLabel;
 @property (nonatomic, strong) UILabel     *detailLabel;
-@property (nonatomic, strong) UIButton    *actionButton;
 @property (nonatomic, strong) UIView      *customV;
 
 @end

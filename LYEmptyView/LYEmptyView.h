@@ -139,4 +139,6 @@
  */
 @property (nonatomic, assign) CGFloat  actionBtnMargin;
 
+@property (nonatomic, strong) UIButton    *actionButton;
+
 @end
